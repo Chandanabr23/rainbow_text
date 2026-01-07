@@ -1,6 +1,6 @@
 name: rainbow_text
 description: A customizable Flutter widget for rendering text with beautiful linear gradients.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Chandanabr23/rainbow_text  
 repository: https://github.com/Chandanabr23/rainbow_text  
 issue_tracker: https://github.com/Chandanabr23/rainbow_text/issues  
