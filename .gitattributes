@@ -1,0 +1,5 @@
+example/windows/** linguist-vendored
+example/linux/** linguist-vendored
+example/macos/** linguist-vendored
+example/ios/** linguist-vendored
+example/android/** linguist-vendored
